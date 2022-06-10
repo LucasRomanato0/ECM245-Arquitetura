@@ -1,3 +1,6 @@
+# Lucas Romanato de Oliveira
+# RA: 20.00313-7
+
 fileName = input('Nome do arquivo de leitura: ')
 file1 = open(fileName,'r')
 Lines = file1.readlines()
